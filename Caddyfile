@@ -1,0 +1,4 @@
+# Vervang jouw-domein.example.com door jouw echte domeinnaam
+jouw-domein.example.com {
+    reverse_proxy app:3000
+}
